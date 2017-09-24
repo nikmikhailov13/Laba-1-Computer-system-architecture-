@@ -30,12 +30,12 @@ BACK - Backspace or click on the right button of mouse.
 Select LEFT or RIGHT pane (by clicking once on any File/Directory inside the pane) or go inside the directory you'd like to create element in.
 
 1) Adding Directory: 
-* Press F1 or go File + Add Directory. 
-* Then give it a name in the small window.
+ * Press F1 or go File + Add Directory. 
+ * Then give it a name in the small window.
 
 2) Adding File: 
-* Press F2 or go File + Add File. 
-* Then give it a name in the small window and ADD THE EXTENSION :
+ * Press F2 or go File + Add File. 
+ * Then give it a name in the small window and ADD THE EXTENSION :
  (blablabla.txt or ahaha.docx or chiky-picky.pdf)
 
 
