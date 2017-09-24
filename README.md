@@ -1,2 +1,2 @@
-# Laba-1-Computer-system-architecture-
+# Ptenec File Manager
 My own file manager, written using javafx.
