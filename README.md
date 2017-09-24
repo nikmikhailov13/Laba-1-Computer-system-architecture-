@@ -53,13 +53,8 @@ You can add an element in almost all directories (if it's not forbidden by your 
 * Press F5.
 
 ## EDITING
-*Select element*
-
 *Editing Name:*
-* Press F6 or go Edit + Edit name.
+* Select the element and press F6 or go Edit + Edit name.
 
 *Deleting*
-* Press delete or go Edit + Delete.
-
-## TEXT EDITOR
-Select .txt file and predd F7.
+* Select the element and press delete or go Edit + Delete.
