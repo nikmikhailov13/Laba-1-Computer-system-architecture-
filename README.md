@@ -29,11 +29,11 @@ BACK - Backspace or click on the right button of mouse.
 
 Select LEFT or RIGHT pane (by clicking once on any File/Directory inside the pane) or go inside the directory you'd like to create element in.
 
-1) Adding Directory: 
+Adding Directory: 
  * Press F1 or go File + Add Directory. 
  * Then give it a name in the small window.
 
-2) Adding File: 
+Adding File: 
  * Press F2 or go File + Add File. 
  * Then give it a name in the small window and ADD THE EXTENSION :
  (blablabla.txt or ahaha.docx or chiky-picky.pdf)
@@ -42,10 +42,10 @@ Select LEFT or RIGHT pane (by clicking once on any File/Directory inside the pan
 ## MOVING ELEMENT
 Select your element and open (inside another pane) the directory in which you want to transfer this one. 
 
-1) Copying element:
+Copying element:
 * Press F3 or go File + Copy
 
-2) Move Element.
+Move Element.
 * Press F4 or go File + Move
 
 ## REFRESHING
@@ -55,10 +55,10 @@ Select LEFT or RIGHT pane (by clicking once on any File/Directory inside the pan
 ## EDITING
 Select element.
 
-1) Editing Name
+Editing Name
 * Press F6 or go Edit + Edit name.
 
-2) Deleting
+Deleting
 * Press delete or go Edit + Delete.
 
 ## TEXT EDITOR
