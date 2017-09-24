@@ -18,7 +18,7 @@ Don't forget to restart the program.
 ____________________________________________________________________________________________________________________
 All available functions of the program you can find on the bottom of the window or inside the topmenu. 
 
---------------------------------------------------navigation------------------------------------------------------
+__________________________________________navigation__________________________________________________________________________
 FORWARD - Enter or double click .
 BACK - Backspace or click on the right button of mouse.
 
