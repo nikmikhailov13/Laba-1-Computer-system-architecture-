@@ -1,5 +1,5 @@
 # Ptenec File Manager
-
+===
 I am glad to see that you use my program. It is actually my first one!
 But anyway it could be a little bit tricky. 
 
@@ -8,18 +8,18 @@ First of all, I'd like to clarify the things. It is just a file manager, and you
 hack into the Pentagon with "Ptenec".  
 The main purpose is working with files.
 
-___________________________________________________________________________________________________________________
+___
 
 WHEN YOU LAUNCH "Ptenec" AT THE FIRST TIME, go to the settings and select default disks.
 They will be shown every time when you start the app. If you want to change them - it's up to you.
 Just go again to the settings.
 Don't forget to restart the program.
 
-____________________________________________________________________________________________________________________
+___
 All available functions of the program you can find on the bottom of the window or inside the topmenu. 
 
-____________________________________________________________________________________________________________________
--navigation
+___
+##navigation
 FORWARD - Enter or double click .
 BACK - Backspace or click on the right button of mouse.
 
