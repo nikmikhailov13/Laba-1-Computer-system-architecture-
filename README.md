@@ -1,5 +1,5 @@
 # Ptenec File Manager
-===
+
 I am glad to see that you use my program. It is actually my first one!
 But anyway it could be a little bit tricky. 
 
@@ -18,8 +18,9 @@ Don't forget to restart the program.
 ___
 All available functions of the program you can find on the bottom of the window or inside the topmenu. 
 
+NAVIGATION
 ___
-##navigation
+
 FORWARD - Enter or double click .
 BACK - Backspace or click on the right button of mouse.
 
