@@ -8,7 +8,7 @@ First of all, I'd like to clarify the things. It is just a file manager, and you
 hack into the Pentagon with "Ptenec".  
 The main purpose is working with files.
 ___
-WHEN YOU LAUNCH "Ptenec" AT THE FIRST TIME, go to the settings and select default disks.
+*When you launch "Ptenec" **AT THE FIRST TIME***, go to the settings and select default disks.
 They will be shown every time when you start the app. If you want to change them - it's up to you.
 Just go again to the settings.
 Don't forget to restart the program.
@@ -29,12 +29,12 @@ You can add an element in almost all directories (if it's not forbidden by your 
 Select LEFT or RIGHT pane (by clicking once on any File/Directory inside the pane) or go inside the directory you'd like to create element in.
 
 1) Add Directory. 
-- Press F1 or go File -> Add Directory. 
-- Then give it a name in the small window.
+* Press F1 or go File + Add Directory. 
+* Then give it a name in the small window.
 
 2) Add File. 
-- Press F2 or go File -> Add File. 
-- Then give it a name in the small window and ADD THE EXTENSION :
+* Press F2 or go File + Add File. 
+* Then give it a name in the small window and ADD THE EXTENSION :
  (blablabla.txt or ahaha.docx or chiky-picky.pdf)
 
 
@@ -42,23 +42,23 @@ Select LEFT or RIGHT pane (by clicking once on any File/Directory inside the pan
 Select your element and open (inside another pane) the directory in which you want to transfer this one. 
 
 1) Copy Element.
--Press F3 or go File-> Copy
+* Press F3 or go File + Copy
 
 2) Move Element.
--Press F4 or go File-> Move
+* Press F4 or go File + Move
 
 ## REFRESHING
-Select LEFT or RIGHT pane (by clicking once on any File/Directory inside the pane)
--Press F5.
+* Select LEFT or RIGHT pane (by clicking once on any File/Directory inside the pane)
+* Press F5.
 
 ## EDITING
 Select element.
 
 1) Edit Name
--Press F6 or go Edit-> Edit name.
+* Press F6 or go Edit + Edit name.
 
 2) Delete
--Press delete or go Edit-> Delete.
+* Press delete or go Edit + Delete.
 
 ## TEXT EDITOR
 Select .txt file and predd F7.
